@@ -1,0 +1,1 @@
+worker: python Bot.Som.py
